@@ -1,5 +1,5 @@
 # Storefront-css
- An attempt to see how much can be done with plan html and css
+ An attempt to see how much can be done with plain html and css
 
 ###### Overall view
 •Created a clothing storefront that displays different categories of clothes with clean aesthetic
